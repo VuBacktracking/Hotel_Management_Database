@@ -43,7 +43,3 @@ You can use your preferred SQL query tool or application code to interact with t
 ## Contributing
 
 Contributions to the Hotel Management Database repository are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Make sure to follow the established guidelines for contributing.
-
-## License
-
-The Hotel Management Database repository is licensed under the [MIT License](LICENSE). Feel free to modify and use the code for personal or commercial purposes. Refer to the license file for more details.
