@@ -26,7 +26,7 @@ To set up the Hotel Management Database, follow the steps below:
 1. Clone this repository to your local machine or download the source code as a ZIP file.
 2. Ensure that you have a working installation of a SQL database management system (e.g., MySQL, PostgreSQL, SQLite, etc.).
 3. Create a new database in your SQL management system to house the Hotel Management Database.
-4. Execute the SQL scripts provided in the repository to create the necessary tables and populate them with sample data. The scripts can be found in the `sql` directory of this repository.
+4. Execute the SQL scripts provided in the repository to create the necessary tables and populate them with sample data. The scripts can be found in the `.sql` directory of this repository.
 
 ## Usage
 
