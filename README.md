@@ -2,6 +2,8 @@
 
 This repository contains a Hotel Management Database implemented using SQL. The database is designed to store and manage information related to hotel operations, including guest details, room reservations, billing, and other relevant data. This README file provides an overview of the repository, instructions for setting up the database, and information on how to use and interact with it.
 
+The Hotel Management Database provides a centralized repository for storing and retrieving data pertinent to hotel management. It offers an intuitive structure that allows hotel administrators, staff, and employees to access and manipulate data efficiently. By leveraging the power of SQL, the database provides a flexible and robust foundation for performing various operations on hotel-related information.
+
 ## Table of Contents
 - [Database Structure](#database-structure)
 - [Setup Instructions](#setup-instructions)
