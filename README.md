@@ -11,12 +11,6 @@ This repository contains a Hotel Management Database implemented using SQL. The 
 
 The Hotel Management Database consists of the following tables:
 
-1. **Guests**: Stores information about the hotel guests, such as their unique ID, name, contact details, and other relevant data.
-2. **Rooms**: Contains details about the hotel rooms, including the room number, room type, occupancy capacity, and other relevant information.
-3. **Reservations**: Tracks the reservations made by guests, including the reservation ID, guest ID, room number, check-in date, check-out date, and other reservation details.
-4. **Billing**: Manages the billing information associated with each reservation, including the bill ID, reservation ID, total amount, payment status, and other relevant data.
-5. **Employees**: Stores information about the hotel employees, including their employee ID, name, position, contact details, and other relevant data.
-
 The relationships between these tables are established through primary and foreign key constraints to ensure data integrity and enforce referential integrity.
 
 ## Setup Instructions
