@@ -12,7 +12,7 @@ The Hotel Management Database provides a centralized repository for storing and 
 ## Database Structure
 
 The Hotel Management Database consists of the following tables:
-![Entity Relationship Diagram](Resx/ERD_2.jpg)
+![Entity Relationship Diagram](Resx/ERD_2.png)
 The relationships between these tables are established through primary and foreign key constraints to ensure data integrity and enforce referential integrity.
 
 ## Setup Instructions
